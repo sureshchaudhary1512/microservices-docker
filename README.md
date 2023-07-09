@@ -2,11 +2,6 @@
 Microservices Architecture Configuration Starter Sample
 
 
-
-
-
-
-
 Architecture of sample multiple microservices developed in different technologies - Spring Boot, Node.js, Python, React.js in a project.
 Microservices connected by an API Gateway using Netflix Zuul.
 
@@ -24,11 +19,3 @@ The application consists of 6 different Microservices
 
 
 
-
-
-
-
-
-![MicroService Architeture ](https://miro.medium.com/max/1050/1*kSLJKEl3X-gKNTpO1l7SQg.png)# Microservices Architecture Sample!
-
-Feel Free to contribute.. 
